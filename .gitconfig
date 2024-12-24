@@ -1,0 +1,7 @@
+[user]
+	email = 42227676+zachcornute@users.noreply.github.com 
+	name = Zach Cornute
+[init]
+	defaultBranch = main
+[credential]
+	helper = osxkeychain
