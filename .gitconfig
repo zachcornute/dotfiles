@@ -5,3 +5,7 @@
 	defaultBranch = main
 [credential]
 	helper = osxkeychain
+
+[core]
+	editor = nvim
+
